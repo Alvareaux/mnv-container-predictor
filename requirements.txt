@@ -1,0 +1,4 @@
+mnv-data-container-template==1.5.1
+prophet==1.1.5
+elasticsearch==8.10.1
+sqlalchemy==2.0.22
